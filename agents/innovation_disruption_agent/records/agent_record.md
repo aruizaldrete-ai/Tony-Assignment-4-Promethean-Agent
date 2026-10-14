@@ -14,7 +14,7 @@ GitHub repository: https://github.com/aruizaldrete-ai/Tony-Assignment-3-Innovati
 
 Branch: lab3-innovation-disruption-agent
 
-Final candidate commit: PENDING until the final agent package is committed.
+Final candidate commit: e385561ad6b42e902dd28e06adca40fa36a36c6a. This identifies the completed agent package; a subsequent documentation-only commit records this SHA.
 
 ## Build Status
 
