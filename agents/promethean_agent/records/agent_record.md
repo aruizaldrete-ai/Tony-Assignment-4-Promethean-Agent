@@ -7,7 +7,7 @@
 - Version / date: 0.2-student / 2026-10-20.
 - GitHub repository: https://github.com/aruizaldrete-ai/Tony-Assignment-4-Promethean-Agent
 - Branch: lab4-promethean-agent.
-- Final candidate commit: Pending completed agent package.
+- Final candidate commit: eb92849 (Complete Lab 4 Promethean Technology Classification Agent v0.2). This record's subsequent provenance-only commit identifies that candidate.
 - Frozen scaffold: MASY1800_ET_Agent_Scaffold_v1_0; supplied ZIP and existing core/tools/template matched at inspection.
 - Requirements: Supplied Assignment 4 memo, common front matter, operating guide, and Agent Record template.
 - Status: Actual ChatGPT primary and context contrast completed at v0.1; observed weakness preserved, instructions revised, same primary case retested in ChatGPT at v0.2. All three required saved responses validate. A separate Codex preliminary response is explicitly labeled and is not counted as a ChatGPT test.
@@ -56,5 +56,5 @@
 
 ## Remaining submission actions
 1. Student review and ability to defend the AI-assisted selected judgment; the selection is recorded, but independent student evaluation is not claimed.
-2. Final candidate commit and publication: to be recorded after committing the package.
-3. Commit/push the final package and submit according to Brightspace upload instructions.
+2. Final candidate preserved at eb92849; frozen-core integrity and all three required response validations passed on 2026-10-20.
+3. Submit the published repository branch/package according to Brightspace upload instructions. GitHub publication is not a Brightspace submission.
